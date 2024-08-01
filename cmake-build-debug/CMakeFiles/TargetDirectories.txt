@@ -1,0 +1,3 @@
+/Users/user/CLionProjects/file_type_script/cmake-build-debug/CMakeFiles/file_type_script.dir
+/Users/user/CLionProjects/file_type_script/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/CLionProjects/file_type_script/cmake-build-debug/CMakeFiles/rebuild_cache.dir

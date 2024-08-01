@@ -1,0 +1,17 @@
+# ninja log v6
+0	467	1722440262956903170	CMakeFiles/file_type_script.dir/main.cpp.o	4a6fe559902b88d5
+0	483	1722440262957287131	CMakeFiles/file_type_script.dir/Core.cpp.o	6fb12fc502edcf36
+484	580	1722440263440398513	file_type_script	c5dad80e5b7fefbf
+4	477	1722441077460572326	CMakeFiles/file_type_script.dir/main.cpp.o	4a6fe559902b88d5
+5	519	1722441077461433457	CMakeFiles/file_type_script.dir/Core.cpp.o	6fb12fc502edcf36
+3	442	1722441118408185218	CMakeFiles/file_type_script.dir/Core.cpp.o	6fb12fc502edcf36
+442	473	1722441118846573604	file_type_script	c5dad80e5b7fefbf
+5	541	1722443251459373092	CMakeFiles/file_type_script.dir/main.cpp.o	4a6fe559902b88d5
+6	584	1722443251460066095	CMakeFiles/file_type_script.dir/Core.cpp.o	6fb12fc502edcf36
+584	678	1722443252038902502	file_type_script	c5dad80e5b7fefbf
+5	607	1722443398296957109	CMakeFiles/file_type_script.dir/Core.cpp.o	6fb12fc502edcf36
+607	698	1722443398898993619	file_type_script	c5dad80e5b7fefbf
+5	475	1722443484976370911	CMakeFiles/file_type_script.dir/Core.cpp.o	6fb12fc502edcf36
+476	509	1722443485447114429	file_type_script	c5dad80e5b7fefbf
+5	490	1722443653703821159	CMakeFiles/file_type_script.dir/Core.cpp.o	6fb12fc502edcf36
+490	521	1722443654189082199	file_type_script	c5dad80e5b7fefbf
